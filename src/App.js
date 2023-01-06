@@ -51,7 +51,7 @@ function App() {
           <p>This website was actually a test to see if you would automatically click "allow all cookies".</p>
           <p>Thank you for participating in this case study.</p>
           <p>(p.s. no cookies were harmed in the making of this website)</p>
-          <img src="https://i.scdn.co/image/ab6761610000e5eba3a7cba23d68a4e73c3b8155></img>
+          <img src="https://i.scdn.co/image/ab6761610000e5eba3a7cba23d68a4e73c3b8155"></img>
           </div>
           <div className="cookie-consent-container">
             <div className="cookie-consent-notice">
