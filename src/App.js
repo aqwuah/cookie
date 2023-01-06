@@ -60,22 +60,4 @@ function App() {
           <p>This website was actually a test to see if you would automatically click "allow all cookies".</p>
           <p>Thank you for participating in this case study.</p>
           <p>(p.s. no cookies were harmed in the making of this website)</p>
-          </div>
-          <div className="cookie-consent-container">
-            <div className="cookie-consent-notice">
-              <h4>Cookie Preferences</h4>
-              <hr/>
-              <p>This website uses cookies to give users the best experience. You can manage your settings below or find out by reading our <u><a onClick={policy}>Cookie Policy</a></u>.</p>
-            </div>
-            <div className="cookie-consent-selection">
-              <button onClick={deny} value="false" className="cookie-consent-deny">Customise Cookies</button>
-              <button onClick={allow} value="true" className="cookie-consent-allow">Allow All Cookies</button>
-            </div>
-          </div>
-        </div>
-      </header>
-    </div>
-  )
-}
-
-export default App;
+          <img src="https://i.scdn.co/image/ab6761610000e5eba3a7cba23d68a4e73c3b8155" alt"Cookie monster"></img>
