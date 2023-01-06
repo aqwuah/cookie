@@ -65,7 +65,7 @@ function App() {
             <div className="cookie-consent-notice">
               <h4>Cookie Preferences</h4>
               <hr/>
-              <p>This website uses cookies to give users the best experience. You can manage your settings below or find out by reading our <a onClick={policy}>Cookie Policy</a>.</p>
+              <p>This website uses cookies to give users the best experience. You can manage your settings below or find out by reading our <u><a onClick={policy}>Cookie Policy</a></u>.</p>
             </div>
             <div className="cookie-consent-selection">
               <button onClick={deny} value="false" className="cookie-consent-deny">Customise Cookies</button>
